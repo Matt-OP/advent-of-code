@@ -1,2 +1,2 @@
-# advent-of-code-2024
-My solutions to advent of code 2024 programming puzzles using Julia
+# advent-of-code
+My solutions to advent of code programming puzzles using Julia
